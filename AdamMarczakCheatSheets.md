@@ -1,3 +1,13 @@
+### ❗️  Disclaimer
+
+The content source is ©[**Adam Marczak**](https://marczak.io/about) course. The purpose of the current document is to help the students attending the course to easily find any information when needed (CTRL F). I highly recommend covering all the course episodes on his website, as you can find useful resources and practice tests, in addition to the study cheat sheets.
+
+### ✨ Enjoy your lessons ✨
+
+____
+
+
+
 ## 🔷 Episode 1 🔷
 
 ### Cloud Computing
@@ -1366,6 +1376,3 @@ ____
 
 ____
 
-### ❗️  Disclaimer
-
-The content source is ©[**Adam Marczak**](https://marczak.io/about) course. The purpose of the current document is to help the students attending the course to easily find any information when needed (CTRL F). I highly recommend covering all the course episodes on his website, as you can find useful resources and practice tests, in addition to the study cheat sheets.
